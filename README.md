@@ -6,20 +6,20 @@ As part of BYOP, I created a simple **Java-based Monthly Expense Tracker** desig
 
 ##  Features:: 
 
-*  Fixed monthly budget (₹5000 As I get)
-*  Predefined  broad expense  categories i.e : Mayuri Freshica, Bistro Cafe, AB Dakshin, Underbelly, Ocean Stationery, Safal Mart, Laundry, Miscellaneous .
+*  A Fixed monthly budget (₹5000 As I get)
+*  Predefined  general expense  categories i.e : Mayuri Freshica, Bistro Cafe, AB Dakshin, Underbelly, Ocean Stationery, Safal Mart, Laundry, Miscellaneous .
     
-*  Expenses are tracked as based on predefined broad categories.
-*  Balance are updated in real time.
-*  Balance can be monthly reset.
-*  Keeps track of transactions.
+*  Expenses are tracked as based on predefined categories.
+*  The Balance is updated instantly.
+*  You can reset your balance every month.
+*  You can keep track of your daily transactions.
 
 ---
 
 ##  Problem Statement/Objective:: 
 
-Students living in hostels/PG/Away_from_home often struggle to track their daily spending, which can lead to spending over their budget.
-So this project of mine helps them by:
+Students living in hostels,PG, away from home often find it difficult to keep track of their daily spending, which can result in overspending.
+Thus,my project of  helps in following ways:
 
 * Monitoring their spending habits.
 * Avoiding overspending 
