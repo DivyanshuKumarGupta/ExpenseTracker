@@ -49,20 +49,7 @@ So this project helps by:
   * Exception Handling
 
 ---
-
-##  Sample Menu
-
-```
-===== Hostel ExpenseTracker =====
-1. Add Expense
-2. View Balance
-3. Category Report
-4. View All Expenses
-5. New Month Reset
-6. Exit
----
-
-## 👨‍💻 Author
+## 👨‍💻 Author :: Divyanshu Kumar Gupta
 
 * Divyanshu Kumar Gupta
   
