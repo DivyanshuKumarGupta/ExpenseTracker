@@ -47,7 +47,6 @@ ExpenseTracker/
 └── README.md
 ```
 
-> All logic — the `Category` enum, `Transaction` class, and `HostelExpenseTracker` class — lives inside a single file under the `expense` package.
 
 ---
 
@@ -57,7 +56,7 @@ ExpenseTracker/
 Before running this project, make sure you have the following installed on your system:
 - **Java Development Kit (JDK)** version 8 or above
 - A terminal / command prompt
-- *(Optional)* An IDE like IntelliJ IDEA, Eclipse, or VS Code with Java extension
+- *Optional:* An IDE like IntelliJ IDEA, Eclipse, or VS Code with Java extension
 
 You can verify your Java installation by running:
 ```bash
