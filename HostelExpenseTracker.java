@@ -3,8 +3,8 @@ import java.util.*;
 
 // Enum for fixed categories (cleaner than strings)
 enum Category {
-    MAYURI,
-    BISTRO,
+    MAYURI FRESHICA,
+    BISTRO CAFE,
     AB_DAKSHIN,
     UNDERBELLY,
     OCEAN_STATIONERY,
