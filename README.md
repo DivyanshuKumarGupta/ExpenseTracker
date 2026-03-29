@@ -1,13 +1,13 @@
-# 💸 ExpenseTracker
+# 💸Hostel  ExpenseTracker
 
-A simple **Java-based Monthly Expense Tracker** designed for hostel students to manage their pocket money efficiently.
+I created a simple **Java-based Monthly Expense Tracker** designed for hostel students(especially mine) to manage their pocket money efficiently.
 
 ---
 
 ## 🚀 Features
 
-* 💰 Fixed monthly budget (₹5000)
-* 🏷️ Predefined expense categories:
+* 💰 Fixed monthly budget (₹5000 As I get)
+* 🏷️ Predefined expense broad categories:
 
   * Mayuri
   * Bistro
@@ -15,7 +15,9 @@ A simple **Java-based Monthly Expense Tracker** designed for hostel students to 
   * Underbelly
   * Ocean Stationery
   * Safal Mart
-  * Miscellaneous
+  * Laundary
+  * Miscellaneous.
+    
 * 📊 Category-wise expense tracking
 * 📉 Real-time balance updates
 * 🔄 Monthly reset option
@@ -23,7 +25,7 @@ A simple **Java-based Monthly Expense Tracker** designed for hostel students to 
 
 ---
 
-## 🎯 Problem Statement
+## 🎯 Problem Statement/Objective: 
 
 Hostel students often struggle to track daily expenses and overspend unknowingly.
 This project helps in:
@@ -31,6 +33,7 @@ This project helps in:
 * Monitoring spending habits
 * Avoiding overspending
 * Understanding category-wise expenses
+* Keep track of daily or weekly spending
 
 ---
 
@@ -91,18 +94,19 @@ This project helps in:
 
 ## ⚠️ Limitations
 
-* ❌ No data persistence (data is lost after exit)
-* ❌ No GUI (console-based)
-* ❌ No date tracking
+*  No data persistence 
+*  No GUI 
+*  No date tracking
+*  Basic program
 
 ---
 
 ## 🔥 Future Improvements
 
-* 💾 Add file/database storage
-* 📅 Add date-wise tracking
-* 📊 Advanced analytics (monthly insights)
-* 🌐 Convert to web application
+*  Add file/database storage
+*  Add date-wise tracking
+*  Advanced analytics (monthly insights)
+*  Convert to web application
 
 ---
 
@@ -112,4 +116,3 @@ This project helps in:
 
 ---
 
-## ⭐ If you found this useful, consider giving it a star!
