@@ -1,34 +1,25 @@
 # 💸Hostel  ExpenseTracker
 
-I created a simple **Java-based Monthly Expense Tracker** designed for hostel students(especially mine) to manage their pocket money efficiently whether they are from high schools or colleges.
+As part of BYOP, I created a simple **Java-based Monthly Expense Tracker** designed for hostel students(especially mine) to manage their pocket money efficiently whether they are from high schools or colleges.
 
 ---
 
 ##  Features:: 
 
 *  Fixed monthly budget (₹5000 As I get)
-*  Predefined  broad expense  categories i.e :
-
-  * Mayuri Freshica
-  * Bistro Cafe
-  * AB Dakshin
-  * Underbelly
-  * Ocean Stationery
-  * Safal Mart
-  * Laundary
-  * Miscellaneous.
+*  Predefined  broad expense  categories i.e : Mayuri Freshica, Bistro Cafe, AB Dakshin, Underbelly, Ocean Stationery, Safal Mart, Laundry, Miscellaneous .
     
 *  Expenses are tracked as based on predefined broad categories.
 *  Balance are updated in real time.
 *  Balance can be monthly reset.
-*  Keep tracks of transaction
+*  Keeps track of transactions.
 
 ---
 
 ##  Problem Statement/Objective:: 
 
-Hostel students often struggle to track daily expenses and overspend unknowingly.
-So this project helps by:
+Students living in hostels/PG/Away_from_home often struggle to track their daily spending, which can lead to spending over their budget.
+So this project of mine helps them by:
 
 * Monitoring their spending habits.
 * Avoiding overspending 
@@ -49,10 +40,8 @@ So this project helps by:
   * Exception Handling
 
 ---
-## 👨‍💻 Author :: Divyanshu Kumar Gupta
-
-* Divyanshu Kumar Gupta
+## 👨‍💻 Author 
+ Divyanshu Kumar Gupta
   
-
 ---
 
