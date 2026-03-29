@@ -19,7 +19,7 @@ As part of BYOP, I created a simple **Java-based Monthly Expense Tracker** desig
 ##  Problem Statement/Objective:: 
 
 Students living in hostels,PG, away from home often find it difficult to keep track of their daily spending, which can result in overspending.
-Thus,my project of  helps in following ways:
+Thus,my project helps in following ways:
 
 * Monitoring their spending habits.
 * Avoiding overspending 
